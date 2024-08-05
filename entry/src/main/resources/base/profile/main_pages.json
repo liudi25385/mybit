@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ScanPage",
+    "pages/LoginPage",
+    "pages/AliPage",
+    "pages/HotNewsPage",
+    "pages/WebViewPage"
+  ]
+}

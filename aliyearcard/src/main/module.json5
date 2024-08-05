@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "aliyearcard",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "AliyearcardAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "AliyearcardAbility",
+        "srcEntry": "./ets/aliyearcardability/AliyearcardAbility.ets",
+        "description": "$string:AliyearcardAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:AliyearcardAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MyTik"
+    },
+    {
+      "name": "Camera_reason",
+      "value": "扫码功能添加"
+    },
+    {
+      "name": "AliAbility1_desc",
+      "value": "description"
+    },
+    {
+      "name": "AliAbility1_label",
+      "value": "label"
+    },
+    {
+      "name": "alialibity_desc",
+      "value": "description"
+    },
+    {
+      "name": "alialibity_label",
+      "value": "label"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "widget_desc",
+      "value": "mytik_img_widget"
+    },
+    {
+      "name": "widget_display_name",
+      "value": "mytik_widget"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "AliyearcardAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "AliyearcardAbility_label",
+      "value": "label"
+    }
+  ]
+}
